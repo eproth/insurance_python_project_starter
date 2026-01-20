@@ -64,11 +64,3 @@ This approach mimics regression behavior using basic Python logic.
 - README.md — project documentation
 
 ---
-
-## How to Run
-
-1. Place `insurance.csv` in the same folder.
-2. Run:
-
-```bash
-python main.py
