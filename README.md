@@ -4,6 +4,12 @@ This project analyzes a medical insurance dataset using basic Python techniques 
 
 ---
 
+### Objective
+
+To analyze medical insurance cost data using basic Python programming techniques and to design a rule-based prediction system without using machine learning libraries.
+
+---
+
 ## Dataset Variables
 
 - age: Age of insured individual
@@ -13,6 +19,16 @@ This project analyzes a medical insurance dataset using basic Python techniques 
 - smoker: Smoking status (yes/no)
 - region: Residential region
 - charges: Insurance cost
+
+---
+
+## Methods Used
+
+- Lists and dictionaries  
+- Loops and conditional logic  
+- Functions for correlation and evaluation  
+- Class-based rule-based prediction model  
+- Statistical performance metrics (MAE, RMSE, R²)
 
 ---
 
@@ -64,11 +80,3 @@ This approach mimics regression behavior using basic Python logic.
 - README.md — project documentation
 
 ---
-
-## How to Run
-
-1. Place `insurance.csv` in the same folder.
-2. Run:
-
-```bash
-python main.py
